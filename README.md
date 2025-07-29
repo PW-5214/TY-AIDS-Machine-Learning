@@ -7,7 +7,7 @@ This repository contains lab assignments for the Machine Learning course taught 
 
 ## ✅ Completed Assignments
 
-- [Lab 1 - Data Preprocessing](./Lab1-DataPreprocessing/)
+- [Lab 1 - PCA ](./Assignment No.1/)
 
 More labs will be added as the course progresses.
 
