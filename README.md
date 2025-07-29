@@ -7,7 +7,7 @@ This repository contains lab assignments for the Machine Learning course taught 
 
 ## ✅ Completed Assignments
 
-- [Lab 1 - PCA](Lab1/Assignment_1_ML.pdf)
+- [Lab 1 - PCA](Lab1/Assignment_1_ML(1).pdf)
 
 More labs will be added as the course progresses.
 
