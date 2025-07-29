@@ -22,8 +22,3 @@ More labs will be added as the course progresses.
 - matplotlib
 
 ---
-
-## 🔄 To Do
-- Upload Lab 2: Regression
-- Upload Lab 3: Classification
-- Upload Lab 4–10: Coming Soon
