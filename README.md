@@ -8,6 +8,7 @@ This repository contains lab assignments for the Machine Learning course taught 
 ## ✅ Completed Assignments
 
 - [Lab 1 - PCA](./Assignment_no_1.ipynb)
+- [Lab 3 - MultiClass](./Assignment_no_3.ipynb)
 
 More labs will be added as the course progresses.
 
