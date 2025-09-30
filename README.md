@@ -16,6 +16,7 @@ This repository contains lab assignments for the Machine Learning course taught 
 - [Lab 7 - K-Medoids clustering](./Assignment_no_7.ipynb)
 - [Lab 8 - Gradient Boosting regression ](./Assignment_no_8.ipynb)
 - [Lab 9 - XGBoost classification](./Assignment_no_9.ipynb)
+- [Lab 10 - XGBoost classification](./Assignment_no_10.ipynb)
 
 More labs will be added as the course progresses.
 
